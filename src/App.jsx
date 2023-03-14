@@ -19,7 +19,7 @@ function App() {
   const [option, setOption] = useState();
 
   const onSubmit = (data) =>
-    setLogin(data.username === "hospital" && data.password === "hospital@123");
+    setLogin(data.username === "projects" && data.password === "projects@123");
 
   return (
     <div className="App">
