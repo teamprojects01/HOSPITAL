@@ -103,8 +103,8 @@
 button {
   font-size: calc(10px + 2vmin);
 }
-button:hover{
-  background-color: Red;
+button:focus{
+  background-color: #94b8ca;
 }
 select{
   background-color: #F6F2F1;
