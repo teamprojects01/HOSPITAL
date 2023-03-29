@@ -104,7 +104,7 @@ button {
   font-size: calc(10px + 2vmin);
 }
 button:focus{
-  background-color: #94b8ca;
+  background-color: #FF6F61;
 }
 select{
   background-color: #F6F2F1;
