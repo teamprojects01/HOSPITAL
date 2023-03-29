@@ -103,6 +103,9 @@
 button {
   font-size: calc(10px + 2vmin);
 }
+button:hover{
+  background-color: Red;
+}
 select{
   background-color: #F6F2F1;
   font-size: large;
