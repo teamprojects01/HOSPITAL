@@ -62,6 +62,7 @@
 .body {
   padding: 3rem 10rem 15px 10rem;
   align-content: center;
+  overflow-x:auto;
 }
 
 
